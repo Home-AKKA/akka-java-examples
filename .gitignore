@@ -1,0 +1,17 @@
+*.class
+
+# Akka Persistence
+/logs
+/journal
+/snapshots
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Intellij #
+*.iml
+.idea
+
+
